@@ -1,0 +1,6 @@
+{
+  "name": "LE Music - Official Artist Website",
+  "description": "Website profissional, moderno e futurista do cantor e artista musical LE Music com player de música, videoclipes, álbuns, agenda e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
